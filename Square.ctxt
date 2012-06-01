@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Square()
+comment0.text=\nThe\ constructor\ takes\ in\ the\ x\ and\ y\ coordinates\ of\ the\ square.\n\n
+comment1.target=int\ getValue()
+comment2.target=int\ hashCode()
+comment3.params=o
+comment3.target=boolean\ equals(Object)
+numComments=4

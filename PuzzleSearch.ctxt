@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=start
+comment0.target=PuzzleSearch(Puzzle)
+comment0.text=\nPuzzleSearch\ is\ used\ to\ try\ different\ puzzle\ state\ objects\n\n
+comment1.target=Puzzle\ depthFirstSearch()
+comment1.text=\nDepth\ first\ search\ to\ find\ the\ goal\ puzzle\ state.\n\n
+comment2.target=Puzzle\ breadthFirstSearch()
+comment2.text=\nBreadth\ first\ search\ to\ find\ the\ goal\ puzzle\ state.\n\n
+comment3.target=Puzzle\ aStarSearch()
+comment3.text=\nA*\ search\ to\ find\ the\ goal\ puzzle\ state.\n\n
+comment4.params=daughtersIn\ alreadySeen\ toDo
+comment4.target=ArrayList<Puzzle>\ sortDaughters(ArrayList<Puzzle>,\ HashSet<Puzzle>,\ ArrayList<Puzzle>)
+comment4.text=\nSorts\ thew\ daughters\ list\ and\ removes\ and\ which\ are\ int\ he\ toDo\ and\ alreadySeen\ lists\n@param\ daughtersIn\ the\ ArrayList\ of\ daughters\ to\ be\ sorted\n@param\ alreadySeen\ the\ ArrayLsit\ of\ states\ which\ have\ already\ been\ seen\ by\ the\ search\ algorithm\n@param\ toDo\ the\ ArrayList\ of\ states\ for\ the\ algorithm\ to\ check\ next.\n\n
+comment5.params=toDo\ daughters
+comment5.target=ArrayList<Puzzle>\ mergeIntoToDo(ArrayList<Puzzle>,\ ArrayList<Puzzle>)
+comment5.text=\nMereges\ an\ ArrayList\ of\ daughter\ states\ into\ the\ toDo\ list.\n\n
+numComments=6

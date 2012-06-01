@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GUI()
+comment0.text=\nBuilds\ a\ GUI\ window\ and\ initalises\ the\ puzzle.\ \ It\ also\ setsup\ a\ timer\ object\ to\ be\ used\ later\ when\ a\ solution\ has\ been\ found.\n\n
+comment1.target=void\ draw()
+comment1.text=\nRedraws\ the\ grid,\ based\ upon\ the\ current\ puzzle.\ \ By\ updating\ the\ puzzle,\ and\ calling\ this\ method\ you\ can\ change\ the\ display\n\n
+comment2.params=p
+comment2.target=Stack<Puzzle>\ buildList(Puzzle)
+comment2.text=\nPuts\ the\ steps\ to\ reach\ a\ given\ solution\ onto\ a\ stack\ so\ that\ they\ are\ arranged\ in\ reverse\ order.\n\n
+numComments=3

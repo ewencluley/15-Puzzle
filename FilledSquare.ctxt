@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=FilledSquare(int)
+comment0.text=\nBuilds\ a\ filled\ square\ at\ possition\ x,\ y\ with\ a\ value\n\n
+comment1.target=int\ getValue()
+comment1.text=\nGets\ the\ value\ of\ the\ square\n\n
+comment2.target=int\ hashCode()
+numComments=3
